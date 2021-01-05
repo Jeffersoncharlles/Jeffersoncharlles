@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 </br>Fullstack developer at <a target="_blank" href="" > </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/jefferdeveloper/">
+<a href="https://www.linkedin.com/in/jeffersoncharlles/">
   <img align="left" alt="Jefferson LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><br/>
+</a>
 
 <a href="https://t.me/djjeffersonnogueira">
   <img align="left" alt="Jefferson Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a><br/>
+</a>
 
 <a href="https://www.instagram.com/djjeffersonnogueira/">
   <img align="left" alt=Jefferson Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 **About me:**
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@jefferdeveloper](https://www.linkedin.com/in/jefferdeveloper/);
+- 📫 How to reach me: [@jefferdeveloper](https://www.linkedin.com/in/jeffersoncharlles/);
 
 <br/>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jeffersoncharlles&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
