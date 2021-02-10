@@ -140,10 +140,6 @@ Here are some ideas to get you started:
   <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
   </a> 
-  
-  <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
-  </a> 
 
   <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
@@ -168,10 +164,6 @@ Here are some ideas to get you started:
 
   <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
   </a> 
 
   <a href="#">
