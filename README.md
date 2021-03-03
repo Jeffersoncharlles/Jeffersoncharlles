@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@jeffersoncharlles](https://www.linkedin.com/in/jeffersoncharlles/);
 
-<br/>[![Anurag's github stats](https://lucascudo-github-readme-stats.vercel.app/api?username=Jeffersoncharlles&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://lucascudo-github-readme-stats.vercel.app/api/top-langs/?username=Jeffersoncharlles&layout=compact&theme=tokyonight&hide=css,html,Dockerfile&langs_count=70)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ## Developer Tech
 
