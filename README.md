@@ -85,10 +85,6 @@ Here are some ideas to get you started:
   </a>  
 
   <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
 
@@ -170,8 +166,5 @@ Here are some ideas to get you started:
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-  <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
-  </a> 
 
 </p>
