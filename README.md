@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="#">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/expo.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/expo.svg" alt="Expo" style="vertical-align:top; margin:6px 4px; width:22px">
   </a>
 
 </p>
