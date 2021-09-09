@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 </br>Fullstack developer at <a target="_blank" href="" > </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -163,7 +162,6 @@ Here are some ideas to get you started:
 
   <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
+  </a>
 
 </p>
