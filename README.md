@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 **About me:**
 
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@jeffersoncharlles](https://www.linkedin.com/in/jeffersoncharlles/)
 
 <br/>
