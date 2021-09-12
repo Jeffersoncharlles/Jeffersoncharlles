@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Jeffersoncharlles/Jeffersoncharlles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
+
 
 </br>Fullstack developer at <a target="_blank" href="" > </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
