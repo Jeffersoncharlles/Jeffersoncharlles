@@ -11,10 +11,13 @@ Here are some ideas to get you started:
 
 ![JeffersonCharlles github stats](https://github-readme-stats.vercel.app/api?username=jeffersoncharlles&show_icons=true&theme=radical)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/jeffersoncharlles)
+
 </br>Fullstack developer at <a target="_blank" href="" > </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://www.linkedin.com/in/jeffersoncharlles/">
+<a href="/">
   <img align="left" alt="Jefferson LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -27,5 +30,5 @@ Here are some ideas to get you started:
 </a><br/><br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Jeffersoncharlles.Jeffersoncharlles)
-
+![](https://img.shields.io/badge/Meu%20Perfil-Jefferdeveloper-brightgreen)
 <br/>
