@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Social impact open source projects
 - 💬 Ask me about [Git, React Native, NodeJs, React , Javascript, Docker, Bash Scripts, PHP]
 - 📫 How to reach me: [@jeffersoncharlles](https://www.linkedin.com/in/jeffersoncharlles/)
-- 😄 Pronouns: ...
 
 
 ![JeffersonCharlles github stats](https://github-readme-stats.vercel.app/api?username=jeffersoncharlles&show_icons=true&theme=radical)
