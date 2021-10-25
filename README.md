@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 
+![JeffersonCharlles github stats](https://github-readme-stats.vercel.app/api?username=jeffersoncharlles&show_icons=true&theme=radical)
+
 </br>Fullstack developer at <a target="_blank" href="" > </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
