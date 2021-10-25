@@ -108,19 +108,7 @@ Here are some ideas to get you started:
 <p align="left">
 
    <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/misc/desktop.svg" alt="desktop" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
     <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-   <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
-    <img src="https://github.com/lucascudo/ColoredBadges/raw/master/svg/dev/misc/tools.svg" alt="tools" style="vertical-align:top; margin:6px 4px">
   </a>  
 
    <a href="#">
