@@ -12,6 +12,13 @@ Here are some ideas to get you started:
 ![JeffersonCharlles github stats](https://github-readme-stats.vercel.app/api?username=jeffersoncharlles&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   17 hrs 38 mins  ██████████████████████░░░   88.32 % 
+SCSS         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Text         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+```
 <!--END_SECTION:waka-->
 
 ## Connect with me:
