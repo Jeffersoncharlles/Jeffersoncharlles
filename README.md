@@ -29,7 +29,7 @@ JavaScript   7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffersoncharllesoficial/)
 
 
-## Fullstack developer at ![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+## Fullstack developer at ![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif){:height="36px" width="36px"}.
 
 ## Languages and tools:
 
