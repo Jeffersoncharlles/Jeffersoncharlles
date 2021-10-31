@@ -42,6 +42,6 @@ JavaScript   8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Jeffersoncharlles.Jeffersoncharlles)
-![](https://img.shields.io/badge/Meu%20Perfil-Jefferdeveloper-brightgreen)
+![badge jefferson](https://visitor-badge.glitch.me/badge?page_id=Jeffersoncharlles.Jeffersoncharlles)
+![meuperfil](https://img.shields.io/badge/Meu%20Perfil-Jefferdeveloper-brightgreen)
 <br/>
