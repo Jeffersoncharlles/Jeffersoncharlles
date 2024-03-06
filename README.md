@@ -2,7 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Software Enginner RBS TRANSPORTES
 - 🌱 I’m currently learning [React Native, Nodejs, React]
 - 👯 I’m looking to collaborate on Social impact open source projects
 - 💬 Ask me about [Git, React Native, NodeJs, React , Javascript, Docker, Bash Scripts]
