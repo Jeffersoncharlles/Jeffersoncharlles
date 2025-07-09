@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/jeffersoncharlles/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeffersoncharlles&show_icons=true&theme=radical&rank_icon=github" alt="Estatísticas do GitHub de Jefferson Charlles" width="49%"/>
 </a>
-<a href="https://github.com/JeffersonCharlles">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersoncharlles&layout=compact&theme=radical" alt="Linguagens mais usadas por Jefferson Charlles" width="42%"/>
-</a>
 
 <br><br><br><br><br><br><br><br>
 
