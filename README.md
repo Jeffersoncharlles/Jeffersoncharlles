@@ -23,8 +23,16 @@ Sou um **Desenvolvedor Fullstack** apaixonado por criar soluções que impactam 
 ## 💻 Tecnologias e Ferramentas
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,styledcomponents,nodejs,ts,js,express,regex,docker,vercel,git,bash,vscode" />
+<!--   <a href="https://skillicons.dev"> -->
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,styledcomponents,nextjs,nodejs,ts,js,express,regex,docker,vercel,git,bash,vscode" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=api,jwt,apple,authjs,clerk,prisma,drizzle,reactnative,expo,ffmpeg,framer,gsap,mysql,mongodb,postgresql"
+    />
   </a>
 </p>
 
