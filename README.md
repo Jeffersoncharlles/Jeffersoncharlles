@@ -1,7 +1,7 @@
 # Olá, eu sou o Jefferson Charlles! 👋
 
 <a href="https://www.linkedin.com/in/jeffersoncharlles/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeffersoncharlles&show_icons=true&theme=radical&rank_icon=github" alt="Estatísticas do GitHub de Jefferson Charlles" width="49%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeffersoncharlles&show_icons=true&theme=dark&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub de Jefferson Charlles" width="49%"/>
 </a>
 
 <br><br><br><br><br><br><br><br>
