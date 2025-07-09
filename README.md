@@ -34,7 +34,6 @@ Sou um **Desenvolvedor Fullstack** apaixonado por criar soluções que impactam 
 ---
 
 ## 📊 Minha Atividade no GitHub
-![JeffersonCharlles github stats](https://github-readme-stats.vercel.app/api?username=jeffersoncharlles&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
 
