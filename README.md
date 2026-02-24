@@ -17,13 +17,14 @@ Sou um **Desenvolvedor Fullstack** apaixonado por criar soluções que impactam 
 
 ---
 
-## 🚀 Projetos de Impacto (Produção & Freelas)
+### 🚀 Projetos de Impacto (Produção & Ferramentas)
 
 | Projeto | Categoria | Status | Destaque Técnico |
 | :--- | :--- | :--- | :--- |
-| **INVFlow** | Infra/Vídeo | [Produção] | Transcodificação HLS com binários customizados |
-| **Signatures** | SaaS/Fintech | [Produção] | Assinatura digital em PDF com Cloudflare R2 |
-| **News Infos** | Entretenimento | [Produção] | Catálogo IPTV com Cache avançado (React Query) |
+| **INVFlow** | Infra/Vídeo | [Produção] | Transcodificação HLS com binários customizados FFmpeg |
+| **FocoTotal** | Extensão/UX | [Publicado] | Injeção de UI com React Portals e Manipulação de DOM |
+| **News Infos** | Entretenimento | [Produção] | Catálogo de vídeos com Cache avançado (React Query) |
+| **MasterClass** | EdTech | [Finalizado] | Interface escalável para plataformas de ensino |
 
 ## 💻 Tecnologias e Ferramentas
 
