@@ -17,6 +17,14 @@ Sou um **Desenvolvedor Fullstack** apaixonado por criar soluções que impactam 
 
 ---
 
+## 🚀 Projetos de Impacto (Produção & Freelas)
+
+| Projeto | Categoria | Status | Destaque Técnico |
+| :--- | :--- | :--- | :--- |
+| **INVFlow** | Infra/Vídeo | [Produção] | Transcodificação HLS com binários customizados |
+| **Signatures** | SaaS/Fintech | [Produção] | Assinatura digital em PDF com Cloudflare R2 |
+| **News Infos** | Entretenimento | [Produção] | Catálogo IPTV com Cache avançado (React Query) |
+
 ## 💻 Tecnologias e Ferramentas
 
 <p align="left">
