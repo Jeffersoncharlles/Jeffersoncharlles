@@ -59,3 +59,18 @@ Other        11 mins               ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+# Hi there
+
+This week I coded for **{waka.week.time / 3600} hrs**, **{waka.all.time / 3600} hrs** all time.
+
+## Top languages this week
+
+<!--CUSTOM_WAKA_START-->
+
+const list = languages.week
+.slice(0, 5)
+.map((l, i) => `${i + 1}. ${l.name} - ${Math.round(l.time / 60)} min`)
+.join('\n')
+<!--CUSTOM_WAKA_END-->
+
+{list}
