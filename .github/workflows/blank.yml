@@ -1,18 +1,37 @@
-
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - name: Test WakaTime OAuth
+        env:
+          WAKA_TOKEN: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          echo "Testing Bearer Authentication"
+
+          curl -s -o /dev/null -w "HTTP: %{http_code}\n" \
+            -H "Authorization: Bearer $WAKA_TOKEN" \
+            https://api.wakatime.com/api/v1/users/current/stats/last_7_days
+
+          echo "Testing Basic Authentication"
+
+          ENCODED=$(printf '%s' "$WAKA_TOKEN" | base64 -w 0)
+
+          curl -s -o /dev/null -w "HTTP: %{http_code}\n" \
+            -H "Authorization: Basic $ENCODED" \
+            https://api.wakatime.com/api/v1/users/current/stats/last_7_days
+
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://api.wakatime.com/api
